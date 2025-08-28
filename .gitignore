@@ -4,3 +4,12 @@
 chromedriver.exe
 *.log
 *.json
+\modules
+\venv
+
+/modules
+/venv
+* - ESET KEYS.txt
+chromedriver.exe
+*.log
+*.json
