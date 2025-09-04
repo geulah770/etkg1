@@ -2,11 +2,11 @@
 
   <img src="https://github.com/shadowcopyrz/etkg/blob/main/img/logo_alt.png?raw=true" alt="logo"/>
     
-  ![Version](https://img.shields.io/badge/version-1.5.6.0-gold)
+  ![Version](https://img.shields.io/badge/version-1.5.6.1-gold)
   
   [![Commit activity](https://img.shields.io/github/commit-activity/t/shadowcopyrz/etkg/main?cacheSeconds=0)](https://github.com/shadowcopyrz/etkg/commits/main)
   ![Last commit](https://img.shields.io/github/last-commit/shadowcopyrz/etkg/main?cacheSeconds=0)
-  ![Last test](https://img.shields.io/badge/last_test-01.09.2025_15:21_UTC+3-blue)
+  ![Last test](https://img.shields.io/badge/last_test-04.09.2025_03:47_UTC+3-blue)
   [![Opened issues](https://img.shields.io/github/issues/shadowcopyrz/etkg?color=darkred)](https://github.com/shadowcopyrz/etkg/issues?cacheSeconds=0)
   [![Closed issues](https://img.shields.io/github/issues-closed/shadowcopyrz/etkg?color=darkgreen&cacheSeconds=0)](https://github.com/shadowcopyrz/etkg/issues?q=is%3Aissue+is%3Aclosed)
   ![License](https://img.shields.io/github/license/shadowcopyrz/etkg)
@@ -89,6 +89,9 @@ It will ask the number of accounts, keys to be generated.
 1. [How to install Firefox on Windows](https://support.mozilla.org/en-US/kb/how-install-firefox-windows)
 2. [How to Install Firefox on Linux](https://support.mozilla.org/en-US/kb/install-firefox-linux)
 3. [How to Install Firefox on Mac](https://support.mozilla.org/en-US/kb/how-download-and-install-firefox-mac)
+
+#### Waterfox (fully supports)
+1. [Download](https://www.waterfox.net)
 
 #### Microsoft Edge (fully supports)
 1. [Download](https://www.microsoft.com/en-us/edge/download?form=MA13L8)
